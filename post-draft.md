@@ -15,14 +15,14 @@ text below.
 >
 > What bounty would YOU post first? 👇
 >
-> Play code: bpr1tvsc
+> Play code: makefun-tollway-plum-barge
 
 ## Why this text
 
 - Opens with a question ("what would it be?") so people reply instead of
   scrolling past — replies are 1 of the 3 counted signals.
 - Names @makefunai and make.fun, links the sponsor page, and carries the
-  play code bpr1tvsc, as the gate requires.
+  play code makefun-tollway-plum-barge, as the gate requires.
 - Ends with a second question to pull replies, quotes and reposts, the counted signals.
 - The quoted post itself links make.fun's make-your-own-bounty post, so
   the entry quotes it rather than only mentioning the account.
