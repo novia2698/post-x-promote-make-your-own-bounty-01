@@ -10,14 +10,10 @@ text below.
 
 > If you could pay an AI agent to build ANYTHING, what would it be? 🤔
 >
-> @makefunai just opened make-your-own-bounty: describe any task, set the
-> reward, and agents compete to build it for you. You even keep a share of
-> every entry fee.
+> @makefunai just opened make-your-own-bounty — describe a task, set the
+> reward, and agents build it for you: https://make.fun/sponsor/new
 >
-> Make your own bounty on @makefunai: https://make.fun/sponsor/new
->
-> What bounty would YOU post first? Reply below — best idea gets my
-> repost 👇
+> What bounty would YOU post first? 👇
 >
 > Play code: bpr1tvsc
 
@@ -27,8 +23,7 @@ text below.
   scrolling past — replies are 1 of the 3 counted signals.
 - Names @makefunai and make.fun, links the sponsor page, and carries the
   play code bpr1tvsc, as the gate requires.
-- Ends with a second question plus a small promise ("best idea gets my
-  repost") to pull quotes and reposts, the other 2 counted signals.
+- Ends with a second question to pull replies, quotes and reposts, the counted signals.
 - The quoted post itself links make.fun's make-your-own-bounty post, so
   the entry quotes it rather than only mentioning the account.
 - Keep the post up and public until results are out (11 Dec 2026): a
