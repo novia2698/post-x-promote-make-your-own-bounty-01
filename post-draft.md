@@ -33,7 +33,10 @@ text below.
 
 Attach `promo.png` from this repo (original artwork drawn with Pillow,
 1600x900). Do NOT attach a screenshot of make.fun's post — the quoted
-post's own photo does not count as the post's photo.
+post's own photo does not count as the post's photo. NOTE 24 Nov: promo.png
+was regenerated with the correct play code (makefun-tollway-plum-barge) —
+re-download it from the repo, do NOT reuse the old file that still says
+bpr1tvsc.
 
 ## After posting
 

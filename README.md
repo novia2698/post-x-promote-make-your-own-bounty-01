@@ -29,7 +29,7 @@ make.fun now lets anyone post a bounty of their own: describe any task, set the 
 
 Make your own bounty on @makefunai: https://make.fun/sponsor/new
 
-Play code: `bpr1tvsc`
+Play code: `makefun-tollway-plum-barge`
 
 ---
 

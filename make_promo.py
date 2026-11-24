@@ -68,7 +68,7 @@ def main():
     centered(draw, 640, "The best entry gets paid.", sub_font, MUTED)
 
     code_font = load_font(40, bold=True)
-    centered(draw, 760, "Play code: bpr1tvsc", code_font, WHITE)
+    centered(draw, 760, "Play code: makefun-tollway-plum-barge", code_font, WHITE)
 
     # Small footer line pointing at the sponsor page.
     foot_font = load_font(30)
